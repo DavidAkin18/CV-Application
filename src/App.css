@@ -1,0 +1,10 @@
+body{
+    background-color: #0f172a;
+}
+.total{
+    background-color: #f3f4f6;
+    width: 30%;
+    padding: 10px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
